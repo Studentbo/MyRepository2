@@ -4,5 +4,6 @@ public class Test{
 		System.out.println("我还需要输出一句话，看差异在哪里！");
 		System.out.println("修改2");
 		System.out.println("！！！！！！！！！！！！！！！");
+		System.out.println("。。。。。。。。。。。。");
 	}
 }
